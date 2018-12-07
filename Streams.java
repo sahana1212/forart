@@ -13,7 +13,7 @@ private static int sumStream(List<Integer> list) {
 public static void main(String args[])
 {
 	List<Integer> input = new ArrayList<Integer>();
-	input.add(3);
+	input.add(89);
 	input.add(15);
 	input.add(45);
 	input.add(2);
