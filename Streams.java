@@ -7,11 +7,11 @@ import java.util.stream.Collectors;
 public class Streams {
 	
 
-private static int sumStream(List<Integer> list) {
-	return list.stream().filter(i -> i > 10).mapToInt(i -> i).sum();
-}
-public static void main(String args[])
-{
+//private static int sumStream(List<Integer> list) {
+//	return list.stream().filter(i -> i > 10).mapToInt(i -> i).sum();
+//}
+//public static void main(String args[])
+//{
 	List<Integer> input = new ArrayList<Integer>();
 	input.add(89);
 	input.add(15);
